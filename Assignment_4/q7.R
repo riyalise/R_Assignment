@@ -1,0 +1,2 @@
+#Q7
+df <- data.frame(Name = c("Alice", "Bob"), Age = c(25, 30))
